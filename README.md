@@ -1,6 +1,6 @@
 ## Hi, I'm Satbaev Bayram 👋
 
-Software Engineer Student 
+🔗Software Engineer Student 
 
 <!--
 **iosatbaev-dev/iosatbaev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
