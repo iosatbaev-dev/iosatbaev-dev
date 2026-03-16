@@ -1,4 +1,4 @@
-## Hi, I'm Satbaev Bayram <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBoODI1amVwMzJ0azR6dTRpeWF4ZGd5eTBuNDdqZmltbW9iMjB3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif weight:50px;">
+## Hi, I'm Satbaev Bayram 👋
 
 <!--
 **iosatbaev-dev/iosatbaev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
