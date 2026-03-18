@@ -1,4 +1,4 @@
-# Hi, I'm Satbaev Bayram 
+# Hi, I'm Satbaev Bayram  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1wbXNzbGd3OHc2M2V0dmFjZWU3NTNrd2dpMnZjeTcxaHNrN3Q1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif">
 
 ### Software Engineer Student
 
