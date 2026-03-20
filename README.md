@@ -16,7 +16,9 @@
 
 ### Areas of Interest:
 
- ▪️ Android App Development
+<ul>
+  <li>Android App Development</li>
+</ul>
 
 <!--
 **iosatbaev-dev/iosatbaev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
