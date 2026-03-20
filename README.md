@@ -16,7 +16,7 @@
 
 ### Areas of Interest:
 
-📱 Android App Development
+📱 **Android App Development**
 
 
 
