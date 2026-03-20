@@ -9,7 +9,7 @@
 - ⚡ I love building "hacker-style" web projects.
 - 🌍 Based in **Karakalpakstan, Uzbekistan**.
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ejR4eXdyeHdyeHdyeHdyeHdyeHdyeHdyeHdyeHdyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvBoMezsQ70pSIM/+giphy.gif" width="55px"> My Skills:
+### My Skills:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
