@@ -16,8 +16,8 @@
 
 ### Areas of Interest:
 
-📱 **Android App Development**
-🤖 **Telegram Bot Development**
+- 📱 **Android App Development**
+- 🤖 **Telegram Bot Development**
 
 
 
