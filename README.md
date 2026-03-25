@@ -10,7 +10,7 @@
 - 🌍 Based in **Karakalpakstan, Uzbekistan**.
 
 ### 🚀 My Skills:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
