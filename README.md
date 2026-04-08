@@ -9,11 +9,6 @@
 - ⚡ I love building "hacker-style" web projects.
 - 🌍 Based in **Karakalpakstan, Uzbekistan**.
 
-### 🚀 My Skills:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
 ### Areas of Interest:
 
 - 📱 **Android App Development**
